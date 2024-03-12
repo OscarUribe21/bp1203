@@ -12,7 +12,7 @@ li {
 }
 
 li a {
-color: white;
+color: rgb(255, 255, 255);
 display: block;
 padding: 14px 16px; /* Arriba y abajo 14, izquierda y derecha 16 */
 text-decoration: none;
